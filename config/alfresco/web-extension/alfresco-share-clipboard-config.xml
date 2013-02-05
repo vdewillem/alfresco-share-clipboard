@@ -1,6 +1,5 @@
 <alfresco-config>
    
-
 	<config evaluator="string-compare" condition="DocLibCustom">
 		<dependencies>
 			<js src="components/clipboard/clipboard-actions.js" />
