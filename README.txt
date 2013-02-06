@@ -34,10 +34,3 @@ property in Ant.
 Once you have run this you will need to restart Tomcat so that the classpath 
 resources in the JAR file are picked up.
 
-
-Using the component
--------------------
-
-Go to the Share Module Management Compontent and enable the Share Clipboard:
-
-http://localhost:8080/share/page/modules/deploy
